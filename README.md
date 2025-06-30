@@ -61,7 +61,7 @@ This project showcases proficiency in:
 
 
 ### Task 3: Mini Blog App
-**Location**: \`/blog\`
+**Location**: \`/mini-blog\`
 
 **Features Implemented**:
 - ✅ Post listing with data from https://jsonplaceholder.typicode.com/posts
