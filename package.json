@@ -12,9 +12,12 @@
     "@react-router/node": "^7.5.3",
     "@react-router/serve": "^7.5.3",
     "isbot": "^5.1.27",
+    "lucide-react": "^0.525.0",
+    "motion": "^12.19.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "react-router": "^7.5.3"
+    "react-router": "^7.5.3",
+    "zod": "^3.25.67"
   },
   "devDependencies": {
     "@react-router/dev": "^7.5.3",
