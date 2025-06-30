@@ -1,4 +1,4 @@
-import PostForm from "components/min-blog/PostForm";
+import PostForm from "components/min-blog/post-form";
 
 
 export default function NewPostPage() {

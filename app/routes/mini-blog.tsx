@@ -1,4 +1,4 @@
-import PostList from "components/min-blog/PostList";
+import PostList from "components/min-blog/post-list";
 import { Link } from "react-router";
 
 export default function HomePage() {

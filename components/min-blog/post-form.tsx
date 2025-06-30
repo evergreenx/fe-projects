@@ -4,7 +4,7 @@ import { usePost } from "contexts/PostContext";
 import type React from "react";
 import { useState, useEffect } from "react";
 import type { Post } from "types/post/post";
-import MarkdownEditor from "./MarkdownEditor";
+import MarkdownEditor from "./markdown-editor";
 import { useNavigate } from "react-router";
 
 interface PostFormProps {

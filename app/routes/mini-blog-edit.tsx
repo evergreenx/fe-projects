@@ -1,6 +1,6 @@
 "use client";
 
-import PostForm from "components/min-blog/PostForm";
+import PostForm from "components/min-blog/post-form";
 import { usePost } from "contexts/PostContext";
 import { useEffect, useState } from "react";
 import { useParams } from "react-router";
